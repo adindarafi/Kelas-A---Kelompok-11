@@ -4,4 +4,10 @@
 3. I0324028, Adinda Rafi Az-Zahra
 
 #Aplikasi-Pendaftaran-Siswa-Baru
+Aplikasi penerimaan siswa baru berbasis Python dan Excel ini dirancang sebagai solusi sederhana namun efektif untuk membantu proses administrasi dalam pengelolaan data calon siswa. Dengan fitur yang mudah digunakan, aplikasi ini memungkinkan lembaga pendidikan untuk mencatat, menyimpan, dan menampilkan data siswa secara terstruktur dan efisien, tanpa perlu menggunakan sistem yang kompleks.
 
+#Fitur
+1. Membaca Data siswa
+2. Menambah Data Siswa
+3. Menyimpan Data Siswa
+4. Menampilkan Data Siswa
