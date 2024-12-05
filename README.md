@@ -13,4 +13,5 @@ Aplikasi penerimaan siswa baru berbasis Python dan Excel ini dirancang sebagai s
 4. Menampilkan Data Siswa
 
 # Diagram Alir
-![flowchart](https://github.com/user-attachments/assets/b3a42b2f-877c-4bfe-a7eb-8f0b63796ebc)
+![flowchart kelompok 11 baru](https://github.com/user-attachments/assets/0f3908c2-342f-4a6a-af11-a7e8c5d0f3ca)
+
