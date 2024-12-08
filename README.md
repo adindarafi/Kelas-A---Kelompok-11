@@ -4,13 +4,21 @@
 3. I0324028, Adinda Rafi Az-Zahra
 
 # Aplikasi Manajemen Data Siswa
-Aplikasi manajemen data siswa berbasis Python dan Excel ini dirancang sebagai solusi sederhana namun efektif untuk membantu proses administrasi dalam pengelolaan data calon siswa. Dengan fitur yang mudah digunakan, aplikasi ini memungkinkan lembaga pendidikan untuk mencatat, menyimpan, dan menampilkan data siswa secara terstruktur dan efisien, tanpa perlu menggunakan sistem yang kompleks. Aplikasi ini memungkinkan pengguna untuk mencatat data calon siswa baru seperti nama, kelas, tanggal lahir, alamat, dan dokumen pendukung lainnya. Data yang dimasukkan akan disimpan secara otomatis dalam format Excel, sehingga memudahkan untuk dilakukan analisis lebih lanjut, seperti penyortiran berdasarkan kriteria tertentu, penilaian seleksi, atau pembuatan laporan. Dengan interface yang sederhana dan user-friendly, aplikasi ini dapat dioperasikan oleh pengguna dengan kemampuan teknologi yang minimal.
+Aplikasi manajemen data siswa berbasis Python dan Excel ini dirancang sebagai solusi sederhana namun efektif untuk membantu proses administrasi dalam pengelolaan data calon siswa. Dengan fitur yang mudah digunakan, aplikasi ini memungkinkan lembaga pendidikan untuk mencatat, menyimpan, dan menampilkan data siswa secara terstruktur dan efisien, tanpa perlu menggunakan sistem yang kompleks. Aplikasi ini memungkinkan pengguna untuk mencatat data calon siswa baru seperti ID, nama, kelas, tanggal lahir, dan alamat. Data yang dimasukkan akan disimpan secara otomatis dalam format Excel, sehingga memudahkan untuk dilakukan analisis lebih lanjut. 
 
 # Fitur
-1. Membaca Data siswa
-2. Menambah Data Siswa
-3. Menyimpan Data Siswa
-4. Menampilkan Data Siswa
+1. Membaca data siswa dari file excel
+2. Menambah data siswa ke file excel
+3. Menyimpan data siswa ke file excel
+4. Menampilkan data siswa yang ada di file excel
+
+# Library
+1. pandas (import pandas as pd)
+2. os
+3. tkinter (import tkinter as tk)
+4. tkinter.messagebox
+5. tkinter.ttk
+6. PIL (Python Imaging Library, import Image, ImageTk)
 
 # Diagram Alir
 ![flowchart kelompok 11 baru](https://github.com/user-attachments/assets/0f3908c2-342f-4a6a-af11-a7e8c5d0f3ca)
