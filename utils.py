@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Nama file default untuk menyimpan data siswa
-file_siswa = "D:/projectc/data_siswa.xlsx"
+file_siswa = "data_siswa.xlsx"
 
 # Fungsi untuk membaca file Excel
 def baca_data(file_path, columns):
